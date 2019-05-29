@@ -2,7 +2,7 @@ package examples;
 
 public interface I1 {
 	
-	
+	//interface example
 	
 	//public static final keywords are optional
 	 public static final int i=30;
